@@ -1,0 +1,14 @@
+﻿e1e1,a1,Houston Rockets,a3,LA Clippers,5/5/2024
+e2,a2,Los Angeles Lakers,a4,Chicago Bulls,6/6/2024
+e3,a5,Cleveland Cavaliers,a6,Utah Jazz,12/5/2024
+e4,a7,Brooklyn Nets,a8,New Orleans Pelicans,7/6/2024
+e5,a9,Indiana Pacers,a10,Toronto Raptors,10/10/2024
+e6,a11,Charlotte Hornets,a12,Phoenix Suns,15/11/2024
+e7,a13,Portland TrailBlazers,a14,Golden State Warriors,20/3/2023
+e8,a15,Washington Wizards,a16,San Antonio Spurs,25/4/2023
+e9,a17,Orlando Magic,a18,Denver Nuggets,1/1/2023
+e10,a19,Detroit Pistons,a20,Atlanta Hawks,2/2/2024
+e11,a21,Dallas Mavericks,a22,Sacramento Kings,3/3/2024
+e12,a23,Oklahoma City Thunder,a24,Boston Celtics,4/4/2024
+e13,a25,New York Knicks,a26,Minnesota Timberwolves,5/5/2023
+e14,a27,Miami Heat,a28,Milwaukee Bucks,6/6/2023

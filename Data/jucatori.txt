@@ -1,0 +1,30 @@
+﻿c1,Noris,Scoala Gimnaziala “Horea”,a1,Houston Rockets
+c2,Bolele,Scoala Gimnaziala “Horea”,a1,Houston Rockets
+c3,Alin,Scoala Gimnaziala “Horea”,a1,Houston Rockets
+c4,Ioan,Scoala Gimnaziala “Horea”,a1,Houston Rockets
+c5,Paul,Scoala Gimnaziala “Horea”,a1,Houston Rockets
+c6,Vlad,Scoala Gimnaziala “Horea”,a1,Houston Rockets
+c7,Mihai,Scoala Gimnaziala “Horea”,a1,Houston Rockets
+c8,Florin,Scoala Gimnaziala “Horea”,a1,Houston Rockets
+c9,Alex,Scoala Gimnaziala “Horea”,a1,Houston Rockets
+c10,Victor,Scoala Gimnaziala “Horea”,a1,Houston Rockets
+d1,Iulia,Scoala Gimnaziala "Liviu Rebreanu",a2,Los Angeles Lakers
+d2,Teodora,Scoala Gimnaziala "Liviu Rebreanu",a2,Los Angeles Lakers
+d3,Cristina,Scoala Gimnaziala "Liviu Rebreanu",a2,Los Angeles Lakers
+d4,Denisa,Scoala Gimnaziala "Liviu Rebreanu",a2,Los Angeles Lakers
+d5,Andreea,Scoala Gimnaziala "Liviu Rebreanu",a2,Los Angeles Lakers
+d6,Diana,Scoala Gimnaziala "Liviu Rebreanu",a2,Los Angeles Lakers
+d7,Roxana,Scoala Gimnaziala "Liviu Rebreanu",a2,Los Angeles Lakers
+d8,Marina,Scoala Gimnaziala "Liviu Rebreanu",a2,Los Angeles Lakers
+d9,Carmen,Scoala Gimnaziala "Liviu Rebreanu",a2,Los Angeles Lakers
+d10,Lavinia,Scoala Gimnaziala "Liviu Rebreanu",a2,Los Angeles Lakers
+ee1,Rares,Scoala Gimnaziala "Ioan Bob",a3,LA Clippers
+ee2,Cosmin,Scoala Gimnaziala "Ioan Bob",a3,LA Clippers
+ee3,Marius,Scoala Gimnaziala "Ioan Bob",a3,LA Clippers
+ee4,Denis,Scoala Gimnaziala "Ioan Bob",a3,LA Clippers
+ee5,Ionut,Scoala Gimnaziala "Ioan Bob",a3,LA Clippers
+ee6,Gabriel,Scoala Gimnaziala "Ioan Bob",a3,LA Clippers
+ee7,Dragos,Scoala Gimnaziala "Ioan Bob",a3,LA Clippers
+ee8,Lucian,Scoala Gimnaziala "Ioan Bob",a3,LA Clippers
+ee9,Eduard,Scoala Gimnaziala "Ioan Bob",a3,LA Clippers
+e10,Adrian,Scoala Gimnaziala "Ioan Bob",a3,LA Clippers

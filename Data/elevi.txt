@@ -1,0 +1,15 @@
+﻿b1,Popescu,Scoala Gimnaziala "Gheorghe Sincai" Floresti
+b2,Cristisor,Scoala Gimnaziala "Gheorghe Sincai" Floresti
+b3,Raul,Scoala Gimnaziala "Gheorghe Sincai" Floresti
+b4,Bolos,Scoala Gimnaziala "Gheorghe Sincai" Floresti
+b5,Ionescu,Scoala Gimnaziala "Gheorghe Sincai" Floresti
+b6,Marin,Scoala Gimnaziala "Gheorghe Sincai" Floresti
+b7,Vlad,Scoala Gimnaziala "Gheorghe Sincai" Floresti
+b8,Andrei,Scoala Gimnaziala "Gheorghe Sincai" Floresti
+b9,Florin,Scoala Gimnaziala "Gheorghe Sincai" Floresti
+b10,Alex,Scoala Gimnaziala "Gheorghe Sincai" Floresti
+b11,Victor,Scoala Gimnaziala "Gheorghe Sincai" Floresti
+b12,Mihai,Scoala Gimnaziala "Gheorghe Sincai" Floresti
+b13,George,Scoala Gimnaziala "Gheorghe Sincai" Floresti
+b14,Claudiu,Scoala Gimnaziala "Gheorghe Sincai" Floresti
+b15,Adrian,Scoala Gimnaziala "Gheorghe Sincai" Floresti
